@@ -37,6 +37,7 @@
 </p>
 
 ## Features
+
 - **Multi-page home screen** that remembers the last page you were on
 - **Dock** with up to 5 favorite apps
 - **App drawer** with search
