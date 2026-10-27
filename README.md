@@ -22,7 +22,7 @@
 
 > ⚠️ **Pre-release.** This is an early test version. Expect bugs, and features may change.
 
-## Screenshots ## (screenshot from galaxy a52s)
+## Screenshots
 
 <p align="center">
   <img src="assets/home_dark.png" width="240" alt="Home screen dark theme" />
@@ -33,11 +33,10 @@
   <img src="assets/drawer_white.png" width="240" alt="App drawer light theme" />
   <img src="assets/drawer_2_white.png" width="240" alt="App drawer light theme" />
   <img src="assets/settings_white.png" width="240" alt="Settings light theme" />
+(screenshot from samsung galaxy a52s)
 </p>
 
-
 ## Features
-
 - **Multi-page home screen** that remembers the last page you were on
 - **Dock** with up to 5 favorite apps
 - **App drawer** with search
