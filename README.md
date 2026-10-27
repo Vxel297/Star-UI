@@ -33,7 +33,7 @@
   <img src="assets/drawer_white.png" width="240" alt="App drawer light theme" />
   <img src="assets/drawer_2_white.png" width="240" alt="App drawer light theme" />
   <img src="assets/settings_white.png" width="240" alt="Settings light theme" />
-(screenshot from samsung a52s)
+(screenshot from samsung galaxy a52s)
 </p>
 
 ## Features
