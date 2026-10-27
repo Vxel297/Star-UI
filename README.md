@@ -22,7 +22,7 @@
 
 > ⚠️ **Pre-release.** This is an early test version. Expect bugs, and features may change.
 
-## Screenshots
+## Screenshots ## (screenshot from galaxy a52s)
 
 <p align="center">
   <img src="assets/home_dark.png" width="240" alt="Home screen dark theme" />
