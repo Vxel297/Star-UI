@@ -33,6 +33,7 @@
   <img src="assets/drawer_white.png" width="240" alt="Lista aplikacji motyw jasny" />
   <img src="assets/drawer_2_white.png" width="240" alt="Lista aplikacji motyw jasny" />
   <img src="assets/settings_white.png" width="240" alt="Ustawienia motyw jasny" />
+(zrzuty ekrany z samsung galaxy a52s)
 </p>
 
 ## Funkcje
